@@ -1,1 +1,1 @@
-# EduQR
+# EduQr
